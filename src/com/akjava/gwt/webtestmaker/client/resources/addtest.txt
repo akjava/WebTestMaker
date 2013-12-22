@@ -1,0 +1,9 @@
+url	add
+title	Add
+set input	text1	value1
+submit
+title	Add Confirm
+text not	error
+submit
+title	Add Complete
+text not	error
